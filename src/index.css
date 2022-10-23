@@ -1,0 +1,74 @@
+  @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap');
+  @import url('http://fonts.cdnfonts.com/css/conthrax');
+  @import url('http://fonts.cdnfonts.com/css/good-times-2');
+  @import url('http://fonts.cdnfonts.com/css/dubstep-dungeons');
+
+
+  @tailwind components;
+  @tailwind utilities;
+
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    scroll-padding: 75px;
+  }
+
+  body {
+    margin: 0;
+    font-family: 'Rajdhani', 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+
+    background: #000;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+
+  h1, h4, p, a {
+    color: #fff;
+  }
+
+  span {
+    font-size: 35px;
+  }
+
+  .btn {
+    padding: 12px 32px; 
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    cursor: pointer;
+  }
+
+  .btn-light {
+    background: rgba(255, 255, 255, .2);
+    color: rgb(70, 255, 147);
+  }
+
+  .btn:hover {
+    background: rgb(0, 0, 0);
+    color: rgb(70, 255, 147);
+    border-radius: 10px;
+    transition: .3s;
+  }
+

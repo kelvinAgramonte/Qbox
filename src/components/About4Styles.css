@@ -1,0 +1,18 @@
+
+.main-heading-values {
+    margin: auto;
+    padding-bottom: 80px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 400;
+    color: #000;
+}
+
+.our-values {
+    color: black;
+    font-weight: 500;
+}
+
+.our-values p {
+    color: #000;
+}
