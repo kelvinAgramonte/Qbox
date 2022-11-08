@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Qbox/static/css/main.2526a95c.css",
-    "main.js": "/Qbox/static/js/main.f263e664.js",
+    "main.js": "/Qbox/static/js/main.9f5c7a31.js",
     "static/media/Tunnel - 64628.mp4": "/Qbox/static/media/Tunnel - 64628.faf7b9d053db45a914d1.mp4",
     "static/media/3D Model Face.jpg": "/Qbox/static/media/3D Model Face.bb98e18e033299f80097.jpg",
     "static/media/BRain-removebg-preview (1).png": "/Qbox/static/media/BRain-removebg-preview (1).d06d910e5e4b7c7de447.png",
     "static/media/Cube_Logo.png": "/Qbox/static/media/Cube_Logo.7f01c00d3acab30997e7.png",
     "index.html": "/Qbox/index.html",
     "main.2526a95c.css.map": "/Qbox/static/css/main.2526a95c.css.map",
-    "main.f263e664.js.map": "/Qbox/static/js/main.f263e664.js.map"
+    "main.9f5c7a31.js.map": "/Qbox/static/js/main.9f5c7a31.js.map"
   },
   "entrypoints": [
     "static/css/main.2526a95c.css",
-    "static/js/main.f263e664.js"
+    "static/js/main.9f5c7a31.js"
   ]
 }
