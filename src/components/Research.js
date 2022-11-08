@@ -1,8 +1,8 @@
 import React from 'react'
 import './ResearchStyles.css'
 import { Link } from 'react-router-dom'
-import Nanotechnology from '../assets/nanotechnology.jpg'
-import QuantumEntanglement from '../assets/QEntanglement.png'
+// import Nanotechnology from '../assets/nanotechnology.jpg'
+// import QuantumEntanglement from '../assets/QEntanglement.png'
 
 const Research = () => {
   return (
@@ -16,11 +16,11 @@ const Research = () => {
 
         <div className='right'>
             <div className='img-container'>
-                <div className='image-stack top'>
+                {/* <div className='image-stack top'>
                     <img src={QuantumEntanglement} className='img' alt='Quantum-Entanglement' />
-                </div>
+                </div> */}
                 <div className='image-stack bottom'>
-                    <img src={Nanotechnology} className='img' alt='Nanotechnology' />
+                    {/* <img src={Nanotechnology} className='img' alt='Nanotechnology' /> */}
                 </div>
             </div>
         </div>
