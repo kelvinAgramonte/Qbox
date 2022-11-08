@@ -11,8 +11,7 @@ const Cards = () => {
                 {/* <img className='w-20 mx-auto mt-[-3rem]' src={Quantum} alt='' /> */}
                 <h2 className='text-2xl font-bold text-center py-8'>Mission</h2>
                 <div className='our-values'>
-                    <p className='text-center text-md '>Loremgsingsin aog nasoiasng osaingsad ogindsosdin osgsgson asgoasgn s osn s
-                    apso gaps osp so psog msp somgp so msp osmgp ogm pogm p osm psgo msp gsom p osmg</p>
+                    <p className='text-center text-md '>Rompiendo la liga</p>
                 </div>
             </div>
             <div className='w-full shadow-xl bg-gray-100 flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
